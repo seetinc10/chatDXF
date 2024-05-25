@@ -1,2 +1,2 @@
-Chat to .dxf file for use in CAD drafting
-install ezdxf 
+Chat to .dxf file for use in CAD drafting.
+
