@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @seetinc10
-- 👀 I’m interested in Odocoileus virginianus.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-seetinc10/seetinc10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Chat to .dxf file for use in CAD drafting.
